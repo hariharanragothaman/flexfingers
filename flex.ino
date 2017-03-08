@@ -1,8 +1,8 @@
 
-*/  This is the Arduino Code to control fllex sensors, and map the results on to an embedded device.
+*/  This is the Arduino Code to control flex sensors, and map the results on to an embedded device.
 * Controlling a servo position using a potentiometer (variable resistor)
 * MPC - added serial output 'n stuff With flex sensor
-* Tweak Val to Angle Map
+* Tweak Value to Angle Map
 */
 
 /* Hardware Setup,Here is the wiring:
